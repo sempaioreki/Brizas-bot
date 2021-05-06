@@ -31,6 +31,7 @@
     "fake-useragent": "^1.0.1",
     "fast-speedtest-api": "^0.3.2",
     "fluent-ffmpeg": "^2.1.2",
+    "form-data": "^2.3.3",
     "fortnite-9812": "^1.0.4",
     "g-i-s": "^2.1.6",
     "geoip-lite": "^1.4.2",
